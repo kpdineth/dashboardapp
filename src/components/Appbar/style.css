@@ -1,0 +1,8 @@
+.btn_top{
+    color: white;
+    text-decoration: none;
+}
+.btn_top:hover{
+    color: blue;
+    text-decoration: underline;
+}
